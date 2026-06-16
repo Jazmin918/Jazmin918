@@ -1,5 +1,13 @@
 ## Hi there 👋
+| Fruta | Color Principal | Sabor Predominante | ¿Tiene Semillas? |
+| :--- | :--- | :--- | :--- |
+| **Manzana** | Rojo / Verde | Dulce / Ácido | Sí |
+| **Plátano** | Amarillo | Dulce | No (visibles) |
+| **Limón** | Amarillo / Verde | Muy Ácido | Sí |
+| **Arándano**| Azul / Morado | Dulce / Afrutado | Sí (diminutas) |
 
+
+![papu](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDYzOu1yInYmXbcxLB-P0lZ0wZd0ZrozVQ7Q&s)
 <!--
 **Jazmin918/Jazmin918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
