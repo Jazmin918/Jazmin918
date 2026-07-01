@@ -1,24 +1,33 @@
-## Hi there 👋
-| Fruta | Color Principal | Sabor Predominante | ¿Tiene Semillas? |
-| :--- | :--- | :--- | :--- |
-| **Manzana** | Rojo / Verde | Dulce / Ácido | Sí |
-| **Plátano** | Amarillo | Dulce | No (visibles) |
-| **Limón** | Amarillo / Verde | Muy Ácido | Sí |
-| **Arándano**| Azul / Morado | Dulce / Afrutado | Sí (diminutas) |
+## 👋 About Me:
+
+¡Hola! Soy **Ruth Abigail Salazar Benítez**.
+Me considero una persona responsable, organizada y perseverante. Siempre busco mejorar mis habilidades y trabajar en proyectos que generen un impacto positivo. Actualmente estudio desarrollo de software, un área que me apasiona porque me permite crear, innovar y resolver problemas mediante la tecnología. Me gusta explorar nuevas ideas, aprender sobre programación, mejorar en idiomas y expresarme de manera creativa. Siempre busco dar lo mejor de mí y seguir creciendo día a día.
 
 
-![papu](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDYzOu1yInYmXbcxLB-P0lZ0wZd0ZrozVQ7Q&s)
-<!--
-**Jazmin918/Jazmin918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐 Socials:
+<p align="left">
+<a href="https://github.com/TU-USUARIO" target="blank">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+</a>
 
-Here are some ideas to get you started:
+<a href="https://linkedin.com/in/TU-LINKEDIN" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="mailto:TU-CORREO">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+</p>
+
+---
+## 💻 Tech Stack:
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode"/>
+</p>
