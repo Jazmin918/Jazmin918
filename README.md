@@ -1,8 +1,7 @@
 ## 👋 About Me:
 
-¡Hola! Soy **Ruth Abigail Salazar Benítez**.
-Me considero una persona responsable, organizada y perseverante. Siempre busco mejorar mis habilidades y trabajar en proyectos que generen un impacto positivo. Actualmente estudio desarrollo de software, un área que me apasiona porque me permite crear, innovar y resolver problemas mediante la tecnología. Me gusta explorar nuevas ideas, aprender sobre programación, mejorar en idiomas y expresarme de manera creativa. Siempre busco dar lo mejor de mí y seguir creciendo día a día.
-
+¡Hola! Soy **Katherine Jazmin Ramirez Rivas**.
+Soy estudiante de desarrollo de software, me gusta el area de informatica y programacion y me considero una persona responsable buscando mejorar cada dia mis conocimientos en programacion.
 
 ## 🌐 Socials:
 <p align="left">
@@ -26,8 +25,8 @@ Me considero una persona responsable, organizada y perseverante. Siempre busco m
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode"/>
 </p>
+---
+<img src="https://marketplace.canva.com/bArtA/MAGXK5bArtA/1/tl/canva-open-laptop-with-blank-screen-MAGXK5bArtA.png" width="400">
